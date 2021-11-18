@@ -448,7 +448,6 @@ Since not every visual can be depicted in a limited-size dashboard, the '_Ask a 
 
 All the tasks mentioned in the BRD has been completed as per the specified acceptance criteria. The project is then evaluated and continuously monitored for any future changes. This concludes a Business Analysis project of Customer Churn Prediction analysis.
 
-**Thanks for reading the article, please feel free to post your comments and share the feedback!!!.**
 
 
 [(Back to top)](#table-of-contents)
